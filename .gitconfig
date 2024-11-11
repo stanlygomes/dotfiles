@@ -1,7 +1,7 @@
 [user]
-	name = w3cj
-	email = cj@null.computer
+	name = stanlygomes
+	email = stanlygomes916@gmail.com
 [core]
 	editor = nano
 [init]
-	defaultBranch = main
+	defaultBranch = master
